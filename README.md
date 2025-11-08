@@ -37,7 +37,7 @@ Over time, effort has become its own feedback loop: progress fuels interest, and
 
 ---
 
-### 📂 Highlighted Repositories
+### 📂 Recent Repositories
 - [`cfs-scheduler-simulator`](https://github.com/hariprasathkumar/cfs-scheduler-simulator) – Linux CFS simulator using AVL trees and hash maps  
 - [`bare-shell`](https://github.com/hariprasathkumar/bare-shell) – Minimal shell built directly on syscalls  
 - [`fw_ota_update`](https://github.com/hariprasathkumar/fw_ota_update) – OTA firmware delivery and DFU chain  
