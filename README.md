@@ -49,4 +49,4 @@ Over time, effort has become its own feedback loop: progress fuels interest, and
 ---
 ### Disclaimer
 All trademarks and company names are property of their respective owners.
-The contents of this Github is personal work, not affiliated with or endorsed by employer.
+The contents of this Github is personal work/off-hours, not affiliated with or endorsed by employer.
