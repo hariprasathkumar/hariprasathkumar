@@ -1,6 +1,6 @@
 # Hari Prasath Kumar
 
-**Firmware Engineer | Texas Instruments**
+**Firmware Engineer **
 
 ---
 
@@ -44,4 +44,9 @@ Over time, effort has become its own feedback loop: progress fuels interest, and
 
 ---
 
-`#firmware #embedded #linuxkernel #rtos #texasinstruments`
+`#firmware #embedded #linuxkernel #rtos `
+
+---
+### Disclaimer
+All trademarks and company names are property of their respective owners.
+The contents of this Github is personal work, not affiliated with or endorsed by employer.
