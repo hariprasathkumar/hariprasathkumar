@@ -19,24 +19,6 @@ Focused on SoC bring-up, RTOS integration, and reliability of hardware abstracti
 
 ---
 
-### Guiding Principle
-
-> “Don’t follow your passions, follow your effort.  
-> Look at where you spend your time — that’s where your real interest lies.”  
-> — [Mark Cuban, *Blog Maverick* (2012)](https://blogmaverick.com/2012/03/18/dont-follow-your-passion-follow-your-effort/)
-
-GitHub repository is a record of steady practice — things I work on out of curiosity and persistence.  
-There’s no specific goal beyond improving my understanding of how systems behave.  
-Over time, effort has become its own feedback loop: progress fuels interest, and interest keeps the effort going.
-
----
-
-### 🔗 Links
-- [GitHub](https://github.com/hariprasathkumar)  
-- [LinkedIn](https://www.linkedin.com/in/hari-prasath-kumar-209892262)
-
----
-
 ### 📂 Recent Repositories
 - [`cfs-scheduler-simulator`](https://github.com/hariprasathkumar/cfs-scheduler-simulator) – Linux CFS simulator using AVL trees and hash maps  
 - [`bare-shell`](https://github.com/hariprasathkumar/bare-shell) – Minimal shell built directly on syscalls  
