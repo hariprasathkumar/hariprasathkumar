@@ -1,6 +1,6 @@
 # Hari Prasath Kumar
 
-**Firmware Engineer **
+**Firmware Engineer**
 
 ---
 
