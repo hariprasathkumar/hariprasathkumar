@@ -14,5 +14,4 @@ Focused on SoC bring-up, RTOS integration, and reliability of hardware abstracti
 - ARM Cortex-M33 / PMBus firmware and validation 
 - Bare-metal and RTOS firmware  
 - ARM Cortex-A/M architectures  
-- Linux driver development  
 - Memory, scheduler, and peripheral subsystems  
